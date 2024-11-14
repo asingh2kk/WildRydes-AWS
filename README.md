@@ -302,5 +302,3 @@ In this final module, you will learn how to properly clean up and delete the res
 - Ensure you follow these cleanup steps to avoid incurring additional charges.
 - Confirm the deletion of each resource to prevent any unintended consequences.
 - Take note of any CloudFormation stacks or additional resources launched during the tutorial and ensure their cleanup.
-
-**End of Module 5 README**
